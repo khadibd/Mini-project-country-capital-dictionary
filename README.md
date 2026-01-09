@@ -52,7 +52,8 @@ It demonstrates:
 
 ```bash
 
-git clone <your-repo-url>
+git clone https://github.com/khadibd/Mini-project-country-capital-dictionary
+
 
 
 
